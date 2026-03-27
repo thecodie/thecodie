@@ -2,9 +2,9 @@
 
 ### A passionate developer from around the world
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=thecodie&label=Profile views&color=0e75b6&style=flat" alt="thecodie" /> </p>
+<p align="left"> <img src="https://avatars.githubusercontent.com/u/38852260?v=4&size=64" alt="thecodie" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thecodie" alt="thecodie" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://avatars.githubusercontent.com/u/38852260?v=4&size=64" alt="thecodie" /></a> </p>
 
 - 🔭 I'm currently working on **Dotnet**
 
