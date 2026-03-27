@@ -4,8 +4,6 @@
 
 <p align="left"> <img src="https://avatars.githubusercontent.com/u/38852260?v=4&size=64" alt="thecodie" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://avatars.githubusercontent.com/u/38852260?v=4&size=64" alt="thecodie" /></a> </p>
-
 - 🔭 I'm currently working on **Dotnet**
 
 - 🌱 I'm currently learning **React **
